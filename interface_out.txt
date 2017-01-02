@@ -1,0 +1,5 @@
+
+interface tenGig0/1/0/0
+description This is My Description
+ipv4 address 1.1.2.3/24
+mtu 9200

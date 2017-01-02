@@ -1,0 +1,5 @@
+interface {{interface_name}}
+description {{description}}
+ipv4 address {{ipv4_address}}
+mtu {{mtu_size}}
+
